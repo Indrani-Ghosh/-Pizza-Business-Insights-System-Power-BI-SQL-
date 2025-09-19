@@ -1,4 +1,7 @@
-# -Pizza-Business-Insights-System-Power-BI-SQL-
+# Pizza Business Insights System Power BI + SQL
+[image](https://github.com/Indrani-Ghosh/-Pizza-Business-Insights-System-Power-BI-SQL-/blob/main/pizza%20insights.jpg
+)
+
 
 ## KPI’s REQUIREMENT
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
