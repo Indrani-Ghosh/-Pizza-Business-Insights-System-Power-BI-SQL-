@@ -2,6 +2,9 @@
 ![image](https://github.com/Indrani-Ghosh/-Pizza-Business-Insights-System-Power-BI-SQL-/blob/main/pizza%20insights.jpg
 )
 
+👉 [ **View Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjRmN2E2MmQtMjY2Zi00ZjhkLTk3ZjctNGEwY2RhMDcxZjE3IiwidCI6IjAxM2E0ZTU2LWNhYmYtNDdmNi04Mzg2LWQ1ZDY0OTE2NzVmOSJ9)
+
+
 
 ## KPI’s REQUIREMENT
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
@@ -45,7 +48,6 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 8. **Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders:**
    Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 ---
-[![Dashboard Preview](https://github.com/Indrani-Ghosh/-Pizza-Business-Insights-System-Power-BI-SQL-/blob/main/pizza%20insights.jpg
-)](https://app.powerbi.com/view?r=eyJrIjoiYjRmN2E2MmQtMjY2Zi00ZjhkLTk3ZjctNGEwY2RhMDcxZjE3IiwidCI6IjAxM2E0ZTU2LWNhYmYtNDdmNi04Mzg2LWQ1ZDY0OTE2NzVmOSJ9)
+
 
 
