@@ -45,7 +45,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 6. **Top 5 Best Sellers by Revenue, Total Quantity and Total Orders:**
    Create a bar chart highlighting the top 5 best-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will help us identify the most popular pizza options.
 
-8. **Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders:**
+8. **Bottom 5 Worst Sellers by Revenue, Total Quantity and Total Orders:**
    Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 ---
 
