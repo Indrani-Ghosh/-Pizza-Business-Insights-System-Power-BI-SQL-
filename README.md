@@ -1,5 +1,5 @@
 # Pizza Business Insights System Power BI + SQL
-[image](https://github.com/Indrani-Ghosh/-Pizza-Business-Insights-System-Power-BI-SQL-/blob/main/pizza%20insights.jpg
+![image](https://github.com/Indrani-Ghosh/-Pizza-Business-Insights-System-Power-BI-SQL-/blob/main/pizza%20insights.jpg
 )
 
 
